@@ -31,8 +31,6 @@ Finally, SunToWater has experienced a number of network intrusions in the past w
 
 Objective: Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials.
 
-For this IT project, your primary point of contact will be Michael Scott, Chief Operations Officer (COO) at SunToWater. Michael has been a critical contributor and decision-maker during this complex acquisition process, and can provide you with more detailed requirements as your progress through the project.
-
 # Project links 
 
 - [Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
