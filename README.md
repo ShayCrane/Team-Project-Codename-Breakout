@@ -42,3 +42,5 @@ For this IT project, your primary point of contact will be Michael Scott, Chief 
 - [Project Notes](https://docs.google.com/document/d/1ZmzZLe-2WrHut0lKq6pCeIBS6EGizh4QmFC5XFH9kSM/edit?usp=sharing)
 
 - [Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
+
+- [Project info](https://docs.google.com/document/d/1xt1-SPPOYr2O94KUJwL2M3aaXxhxsQOGZ0i29wwUnLI/edit?usp=sharing)
