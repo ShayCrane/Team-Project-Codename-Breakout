@@ -35,7 +35,10 @@ For this IT project, your primary point of contact will be Michael Scott, Chief 
 
 # Project links 
 
-[Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
-[Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
-[Project Notes](https://docs.google.com/document/d/1ZmzZLe-2WrHut0lKq6pCeIBS6EGizh4QmFC5XFH9kSM/edit?usp=sharing)
-[Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
+- [Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
+
+- [Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
+
+- [Project Notes](https://docs.google.com/document/d/1ZmzZLe-2WrHut0lKq6pCeIBS6EGizh4QmFC5XFH9kSM/edit?usp=sharing)
+
+- [Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
