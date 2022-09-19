@@ -18,7 +18,7 @@ A-team is tasked with updating the core IT infrastructure of a recent GlobeX acq
 
 Project Requirements
 
-SunToWater currently lacks a client-server, domained network, your team is assigned with developing a repeatable means of standing up a DC to oversee SunToWater's network. The AD will need to automatically populate users and OUs.
+SunToWater currently lacks a client-server, domained network, A-team is assigned with developing a repeatable means of standing up a DC to oversee SunToWater's network. The AD will need to automatically populate users and OUs.
 
 Objective: Develop as a team a singular Powershell script that, when executed on a new installation of Windows Server, can fully stand up all requisite services to make the server into a DC. Minimum required components of the script are listed in the Project Guidelines document. Each individual of the team is to contribute their share of the overall script and document their individual contribution. The final script should reflect an equal effort from all team members.
 For the purposes of this project, only a single Windows 10 endpoint is required for demonstrating synchronization with the domain.
