@@ -14,7 +14,7 @@ Scenario & Problem Domain
 
 GlobeX has made a number of strategic acquisitions this year, but the IT infrastructure of the new subsidiary companies is outdated. In order to maintain the levels of regulatory compliance required for federal contracts, GlobeX needs to update and reconfigure its subsidiary's IT infrastructure. For each acquisition, a task force has been assembled under the umbrella of the GlobeX special projects division to accomplish this project.
 
-Your team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition, SunToWater. SunToWater's mission is to make water-from-air drinking water more accessible to families. This ecological, energy-conversion focus aligns well with the mission of GlobeX, but unfortunately, its IT systems do not.
+A-team is tasked with updating the core IT infrastructure of a recent GlobeX acquisition, SunToWater. SunToWater's mission is to make water-from-air drinking water more accessible to families. This ecological, energy-conversion focus aligns well with the mission of GlobeX, but unfortunately, its IT systems do not.
 
 Project Requirements
 
@@ -38,3 +38,4 @@ For this IT project, your primary point of contact will be Michael Scott, Chief 
 [Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
 [Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
 [Project Notes](https://docs.google.com/document/d/1ZmzZLe-2WrHut0lKq6pCeIBS6EGizh4QmFC5XFH9kSM/edit?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
