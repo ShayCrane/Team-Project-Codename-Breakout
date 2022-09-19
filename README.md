@@ -1,3 +1,15 @@
+# Project links 
+
+- [Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
+
+- [Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
+
+- [Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
+
+- [Project notes](https://docs.google.com/document/d/1ZmzZLe-2WrHut0lKq6pCeIBS6EGizh4QmFC5XFH9kSM/edit?usp=sharing)
+
+- [Project info](https://docs.google.com/document/d/1xt1-SPPOYr2O94KUJwL2M3aaXxhxsQOGZ0i29wwUnLI/edit?usp=sharing)
+
 # Project members
 
 - Shay Crane (PM)
@@ -30,17 +42,5 @@ Objective 2: Build a site-to-site VPN tunnel, altering at least one parameter co
 Finally, SunToWater has experienced a number of network intrusions in the past which has caused management to be concerned with our plans to join the two networks. They've requested your team implement some form of network access control that provides a healthy level of AAA security management. Your upcoming presentation should demonstrate evidence of AAA in your final configuration.
 
 Objective 3: Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials.
-
-# Project links 
-
-- [Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
-
-- [Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
-
-- [Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
-
-- [Project notes](https://docs.google.com/document/d/1ZmzZLe-2WrHut0lKq6pCeIBS6EGizh4QmFC5XFH9kSM/edit?usp=sharing)
-
-- [Project info](https://docs.google.com/document/d/1xt1-SPPOYr2O94KUJwL2M3aaXxhxsQOGZ0i29wwUnLI/edit?usp=sharing)
 
 - [Project recources](https://docs.google.com/document/d/1rwWmIHadRr3UATzwCxsvYYx46XnKDAfSNTsQzajbb3o/edit?usp=sharing)
