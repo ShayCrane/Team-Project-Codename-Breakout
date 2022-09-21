@@ -1,6 +1,6 @@
 # Project links 
 
-- [Presentation](https://docs.google.com/presentation/d/1Sif0VAjqPbF0QHBEcV2P-AUg_wJ3-uEzQSdqGmysRlU/edit#slide=id.g2accd1c413_3_31)
+- [Presentation](https://docs.google.com/presentation/d/1xs_Fr4c_tRyPW2_ACStZLECBWl6_5unhfilENLsVLvM/edit?usp=sharing)
 
 - [Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
 
