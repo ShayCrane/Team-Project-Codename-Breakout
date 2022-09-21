@@ -22,10 +22,7 @@ Set-DNSClientServerAddress -InterfaceIndex 12 -ServerAddresses ("10.0.0.1", "10.
 Rename-Computer -NewName "SunToWater-Server"
 
 
-
-
 # Creates Organizational Units (OU)
-
 New-ADOrganizationalUnit -Name 'Marketing'
 New-ADOrganizationalUnit -Name 'Finance'
 New-ADOrganizationalUnit -Name 'HR'
@@ -34,11 +31,7 @@ New-ADOrganizationalUnit -Name 'Information'
 New-ADOrganizationalUnit -Name 'Operations'
 
 
-
-
 # Creates users
-# The Active Directory module needs to be imported first
-
 Import-Module Active Directory
 
 New-ADUser -Name 'Bill Lumbergh' -UserPrincipalName 'blumberg@suntowater.com' -SamAccountName 'blumberg' -GivenName 'Bill' -Surname 'Lumbergh' -Title 'CEO' -AccountPassword (Read-Host AsSecureString 'SunToWater123') -ChangePasswordAtLogon $true -Enabled $true
