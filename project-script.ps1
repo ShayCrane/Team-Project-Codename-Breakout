@@ -19,7 +19,7 @@ New-NetIPAddress -IPAddress 192.168.1.2 -DefaultGateway 192.168.1.1
 Set-DNSClientServerAddress -InterfaceIndex 12 -ServerAddresses ("10.0.0.1", "10.0.0.2")
 
 # Renames the Windows Server VM
-Rename-Computer -NewName "SunToWater-Server"
+Rename-Computer -NewName "SunToWater-Serv"
 
 
 # Creates Organizational Units (OU)
@@ -32,7 +32,7 @@ New-ADOrganizationalUnit -Name 'Operations'
 
 
 # Creates users
-Import-Module Active Directory
+Import-Module ActiveDirectory
 
 New-ADUser -Name 'Bill Lumbergh' -UserPrincipalName 'blumberg@suntowater.com' -SamAccountName 'blumberg' -GivenName 'Bill' -Surname 'Lumbergh' -Title 'CEO' -AccountPassword(Read-Host -AsSecureString 'SunToWater123') -Enabled $true
 
