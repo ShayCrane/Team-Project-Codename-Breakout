@@ -2,7 +2,7 @@
 
 - [Presentation](https://docs.google.com/presentation/d/1xs_Fr4c_tRyPW2_ACStZLECBWl6_5unhfilENLsVLvM/edit?usp=sharing)
 
-- [Trello](https://trello.com/w/userworkspacebfb04e7284fa42e206b6f37190d2d8b0)
+- [Trello](https://trello.com/b/70qIxXPM/the-a-team-project-codename-project-breakout)
 
 - [Google Drive](https://drive.google.com/drive/folders/1WQBD1LV-MRXFgZAB2vL3vC6dAmajuu8b?usp=sharing)
 
