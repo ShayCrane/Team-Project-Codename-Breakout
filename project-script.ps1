@@ -19,7 +19,7 @@ New-NetIPAddress -IPAddress 192.168.1.2 -DefaultGateway 192.168.1.1
 Set-DNSClientServerAddress -InterfaceIndex 12 -ServerAddresses ("10.0.0.1", "10.0.0.2")
 
 # Renames the Windows Server VM
-Rename-Computer -NewName "SunToWater-Serv"
+Rename-Computer -NewName 'SunToWater-Serv'
 
 
 # Creates Organizational Units (OU)
